@@ -1,0 +1,491 @@
+INFO 2024-06-10 16:17:26,144 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-10 16:20:24,166 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-10 16:20:25,022 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-10 16:20:58,393 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-10 16:20:59,210 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-10 16:21:08,261 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-10 16:21:09,119 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-10 16:22:13,214 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-10 16:26:55,337 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-10 16:27:55,016 autoreload:266 E:\uric\uric_api\uric_api\uric_api\middlewares\logs.py changed, reloading.
+INFO 2024-06-10 16:27:55,760 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-10 16:27:58,033 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-10 16:28:04,786 autoreload:266 E:\uric\uric_api\uric_api\uric_api\middlewares\logs.py changed, reloading.
+INFO 2024-06-10 16:28:05,560 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-10 16:28:48,122 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-10 16:28:48,842 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-10 16:28:51,814 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-10 16:29:13,670 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-10 16:29:14,524 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-10 16:29:19,372 autoreload:668 Watching for file changes with StatReloader
+WARNING 2024-06-10 16:29:22,655 log:241 Not Found: /
+WARNING 2024-06-10 16:29:22,655 basehttp:212 "GET / HTTP/1.1" 404 2166
+INFO 2024-06-10 16:30:08,398 basehttp:212 "GET /home/test HTTP/1.1" 200 5156
+INFO 2024-06-10 16:30:08,419 basehttp:212 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2024-06-10 16:30:08,419 basehttp:212 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2024-06-10 16:30:08,419 basehttp:212 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2024-06-10 16:30:08,422 basehttp:212 "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2024-06-10 16:30:08,438 basehttp:212 "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+INFO 2024-06-10 16:30:08,438 basehttp:212 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2024-06-10 16:30:08,438 basehttp:212 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2024-06-10 16:30:08,441 basehttp:212 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2024-06-10 16:30:08,442 basehttp:212 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2024-06-10 16:30:08,443 basehttp:212 "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2024-06-10 16:30:08,444 basehttp:212 "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+INFO 2024-06-10 16:30:08,472 basehttp:212 "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+INFO 2024-06-10 16:33:40,728 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-10 16:33:41,585 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-10 16:34:56,854 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\home\views.py changed, reloading.
+INFO 2024-06-10 16:34:57,856 autoreload:668 Watching for file changes with StatReloader
+ERROR 2024-06-10 16:35:26,438 exceptions:26 [<home.views.TestAPIView object at 0x000001A833A99FD0>] mysql连接失败
+ERROR 2024-06-10 16:35:26,454 log:241 Insufficient Storage: /home/test
+ERROR 2024-06-10 16:35:26,454 basehttp:212 "GET /home/test HTTP/1.1" 507 5195
+INFO 2024-06-10 16:35:26,469 basehttp:212 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2024-06-10 16:35:26,471 basehttp:212 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2024-06-10 16:35:26,472 basehttp:212 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2024-06-10 16:35:26,474 basehttp:212 "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2024-06-10 16:35:26,475 basehttp:212 "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+INFO 2024-06-10 16:35:26,477 basehttp:212 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2024-06-10 16:35:26,478 basehttp:212 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2024-06-10 16:35:26,482 basehttp:212 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2024-06-10 16:35:26,482 basehttp:212 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2024-06-10 16:35:26,484 basehttp:212 "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2024-06-10 16:35:26,485 basehttp:212 "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+INFO 2024-06-10 16:35:26,505 basehttp:212 "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+INFO 2024-06-10 16:37:25,365 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-10 16:37:26,131 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-10 16:37:37,672 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-10 16:37:38,309 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-10 16:38:03,773 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-10 16:39:32,599 autoreload:266 E:\uric\uric_api\uric_api\uric_api\__init__.py changed, reloading.
+INFO 2024-06-10 16:39:33,426 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-10 16:39:36,021 autoreload:266 E:\uric\uric_api\uric_api\uric_api\__init__.py changed, reloading.
+INFO 2024-06-10 16:39:36,860 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-10 16:39:39,413 autoreload:266 E:\uric\uric_api\uric_api\uric_api\__init__.py changed, reloading.
+INFO 2024-06-10 16:39:40,175 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 00:25:35,850 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-11 00:25:37,001 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 00:25:47,326 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-11 00:25:48,293 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 00:25:56,228 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-11 00:25:57,121 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 00:26:43,549 autoreload:668 Watching for file changes with StatReloader
+ERROR 2024-06-11 00:26:53,255 exception:124 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "E:\uric\uric_api\uric_api\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\uric\uric_api\uric_api\.venv\Lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\uric\uric_api\uric_api\.venv\Lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "E:\uric\uric_api\uric_api\.venv\Lib\site-packages\django\http\request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+WARNING 2024-06-11 00:26:53,298 log:241 Bad Request: /
+WARNING 2024-06-11 00:26:53,299 basehttp:212 "GET / HTTP/1.1" 400 72118
+INFO 2024-06-11 00:27:50,201 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 11:29:09,570 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 11:30:43,105 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 11:50:15,343 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-11 11:50:16,171 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 11:50:48,991 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-11 11:50:49,887 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 11:51:09,570 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-11 11:51:10,382 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 11:51:30,321 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-11 11:51:31,106 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 11:57:58,157 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-11 11:57:58,988 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 11:58:08,027 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-11 11:58:08,865 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 11:58:11,331 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-11 11:58:12,303 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 12:11:06,412 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\users\models.py changed, reloading.
+INFO 2024-06-11 12:11:07,207 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 12:11:36,113 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 12:12:14,561 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 12:14:36,581 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\users\models.py changed, reloading.
+INFO 2024-06-11 12:14:37,434 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 12:14:40,569 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\users\models.py changed, reloading.
+INFO 2024-06-11 12:14:41,391 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 12:15:36,182 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-11 12:15:37,092 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 12:15:43,856 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-11 12:15:44,663 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 12:16:25,703 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 12:16:37,000 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 12:18:23,943 autoreload:266 E:\uric\uric_api\uric_api\.venv\Lib\site-packages\rest_framework_jwt\authentication.py changed, reloading.
+INFO 2024-06-11 12:18:24,731 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 12:19:30,776 autoreload:266 E:\uric\uric_api\uric_api\.venv\Lib\site-packages\rest_framework_jwt\authentication.py changed, reloading.
+INFO 2024-06-11 12:19:31,521 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 12:19:33,901 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 12:20:41,500 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\host\models.py changed, reloading.
+INFO 2024-06-11 12:20:42,465 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 12:21:21,627 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 12:22:20,637 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-11 12:22:21,463 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 12:24:36,654 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 12:27:47,833 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-11 12:27:48,731 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 12:29:01,089 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-11 12:29:02,091 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 12:29:09,754 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-11 12:29:10,617 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 12:29:59,546 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-11 12:30:00,357 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 12:30:15,251 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 12:34:15,119 autoreload:266 E:\uric\uric_api\uric_api\uric_api\utils\ssh.py changed, reloading.
+INFO 2024-06-11 12:34:15,868 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 12:38:05,587 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-11 12:46:16,393 autoreload:266 E:\uric\uric_api\uric_api\.venv\Lib\site-packages\django\contrib\admin\migrations\0001_initial.py changed, reloading.
+INFO 2024-06-11 12:46:17,596 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-18 14:35:33,726 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-18 14:38:07,450 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-18 14:39:41,625 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-18 14:39:42,390 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-18 14:39:44,896 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-18 14:39:45,714 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-18 14:46:37,457 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-18 14:46:38,169 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-18 14:46:44,846 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-18 14:46:45,495 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-18 14:46:54,277 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-18 14:46:54,928 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-18 14:46:59,527 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-18 14:47:00,131 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-18 14:47:05,774 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-18 14:47:06,474 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-18 14:47:52,939 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-18 14:47:53,710 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-18 14:48:53,740 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-18 14:48:54,429 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-18 14:49:10,680 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-18 14:49:11,494 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-18 14:50:09,288 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-18 14:50:09,936 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-18 14:51:46,600 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-18 14:54:54,985 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 09:14:09,625 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 09:15:14,376 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 09:17:21,414 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-21 09:17:22,369 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 09:18:59,776 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-21 09:19:00,536 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 09:19:14,534 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\host\views.py changed, reloading.
+INFO 2024-06-21 09:19:15,291 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 09:22:06,265 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 09:24:47,558 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 09:27:40,680 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-21 09:27:41,560 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 09:29:22,695 autoreload:266 C:\Users\xings\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\admin\checks.py changed, reloading.
+INFO 2024-06-21 09:29:57,918 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 09:33:57,437 autoreload:266 C:\Users\xings\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\exceptions.py changed, reloading.
+INFO 2024-06-21 09:33:58,161 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 09:34:29,826 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 09:35:16,715 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\host\views.py changed, reloading.
+INFO 2024-06-21 09:35:17,406 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 09:35:25,540 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\host\views.py changed, reloading.
+INFO 2024-06-21 09:35:26,320 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 09:36:04,770 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\host\views.py changed, reloading.
+INFO 2024-06-21 09:36:05,656 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 09:36:09,581 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\host\views.py changed, reloading.
+INFO 2024-06-21 09:36:10,438 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 09:37:20,421 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\host\views.py changed, reloading.
+INFO 2024-06-21 09:37:21,367 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 09:37:35,090 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\host\views.py changed, reloading.
+INFO 2024-06-21 09:37:36,010 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 09:38:26,967 autoreload:668 Watching for file changes with StatReloader
+ERROR 2024-06-21 09:38:29,172 exception:124 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\xings\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\xings\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\xings\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\xings\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\http\request.py", line 167, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2024-06-21 09:38:29,227 log:241 Bad Request: /
+WARNING 2024-06-21 09:38:29,228 basehttp:212 "GET / HTTP/1.1" 400 71620
+ERROR 2024-06-21 09:38:29,438 exception:124 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\xings\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\xings\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\xings\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\xings\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\http\request.py", line 167, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2024-06-21 09:38:29,469 log:241 Bad Request: /favicon.ico
+WARNING 2024-06-21 09:38:29,470 basehttp:212 "GET /favicon.ico HTTP/1.1" 400 71545
+INFO 2024-06-21 09:39:28,049 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\host\urls.py changed, reloading.
+INFO 2024-06-21 09:39:28,965 autoreload:668 Watching for file changes with StatReloader
+ERROR 2024-06-21 09:39:44,875 exception:124 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\xings\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\xings\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\xings\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\xings\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\http\request.py", line 167, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2024-06-21 09:39:44,920 log:241 Bad Request: /host/list
+WARNING 2024-06-21 09:39:44,921 basehttp:212 "GET /host/list HTTP/1.1" 400 70169
+INFO 2024-06-21 09:45:41,536 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-21 09:52:35,221 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 09:56:14,944 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-21 09:56:15,787 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 09:56:28,076 autoreload:668 Watching for file changes with StatReloader
+WARNING 2024-06-21 09:56:30,121 log:241 Not Found: /
+WARNING 2024-06-21 09:56:30,123 basehttp:212 "GET / HTTP/1.1" 404 2378
+WARNING 2024-06-21 09:56:30,307 log:241 Not Found: /favicon.ico
+WARNING 2024-06-21 09:56:30,308 basehttp:212 "GET /favicon.ico HTTP/1.1" 404 2429
+WARNING 2024-06-21 09:56:38,127 log:241 Not Found: /host
+WARNING 2024-06-21 09:56:38,127 basehttp:212 "GET /host HTTP/1.1" 404 2408
+WARNING 2024-06-21 09:56:49,747 log:241 Not Found: /hosts
+WARNING 2024-06-21 09:56:49,748 basehttp:212 "GET /hosts HTTP/1.1" 404 2411
+WARNING 2024-06-21 09:56:58,950 log:241 Unauthorized: /hosts/list
+WARNING 2024-06-21 09:56:58,951 basehttp:212 "GET /hosts/list HTTP/1.1" 401 5008
+INFO 2024-06-21 09:56:59,317 basehttp:212 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+INFO 2024-06-21 09:56:59,321 basehttp:212 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-06-21 09:56:59,324 basehttp:212 "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-06-21 09:56:59,324 basehttp:212 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+INFO 2024-06-21 09:56:59,325 basehttp:212 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+INFO 2024-06-21 09:56:59,325 basehttp:212 "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+INFO 2024-06-21 09:56:59,327 basehttp:212 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-06-21 09:56:59,330 basehttp:212 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-06-21 09:56:59,333 basehttp:212 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-06-21 09:56:59,333 basehttp:212 "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-06-21 09:56:59,336 basehttp:212 "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+INFO 2024-06-21 09:56:59,337 basehttp:212 "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-06-21 09:57:08,815 log:241 Unauthorized: /hosts/list
+WARNING 2024-06-21 09:57:08,815 basehttp:212 "GET /hosts/list HTTP/1.1" 401 43
+INFO 2024-06-21 10:01:25,400 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\users\urls.py changed, reloading.
+INFO 2024-06-21 10:01:26,305 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 10:01:32,442 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\users\urls.py changed, reloading.
+INFO 2024-06-21 10:01:33,331 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 10:01:54,866 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\users\urls.py changed, reloading.
+INFO 2024-06-21 10:01:55,790 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 15:05:02,284 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\users\urls.py changed, reloading.
+INFO 2024-06-21 15:05:03,207 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 15:05:17,046 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\users\urls.py changed, reloading.
+INFO 2024-06-21 15:05:18,007 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 15:05:22,980 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\users\urls.py changed, reloading.
+INFO 2024-06-21 15:05:23,840 autoreload:668 Watching for file changes with StatReloader
+WARNING 2024-06-21 15:05:25,803 log:241 Not Found: /
+WARNING 2024-06-21 15:05:25,804 basehttp:212 "GET / HTTP/1.1" 404 2378
+WARNING 2024-06-21 15:19:09,382 log:241 Unauthorized: /hosts/list
+WARNING 2024-06-21 15:19:09,384 basehttp:212 "GET /hosts/list HTTP/1.1" 401 43
+WARNING 2024-06-21 15:19:28,886 log:241 Unauthorized: /hosts/list
+WARNING 2024-06-21 15:19:28,887 basehttp:212 "GET /hosts/list HTTP/1.1" 401 43
+WARNING 2024-06-21 15:19:53,395 log:241 Method Not Allowed: /users/login
+WARNING 2024-06-21 15:19:53,396 basehttp:212 "GET /users/login HTTP/1.1" 405 45
+WARNING 2024-06-21 15:19:58,467 logs:18 请求路径: /users/login 耗时0.7283229827880859秒
+WARNING 2024-06-21 15:19:58,468 log:241 Unauthorized: /users/login
+WARNING 2024-06-21 15:19:58,468 basehttp:212 "POST /users/login HTTP/1.1" 401 63
+WARNING 2024-06-21 15:20:23,034 logs:18 请求路径: /users/login 耗时1.5055553913116455秒
+INFO 2024-06-21 15:20:23,035 basehttp:212 "POST /users/login HTTP/1.1" 200 483
+WARNING 2024-06-21 15:21:02,221 log:241 Method Not Allowed: /users/login
+WARNING 2024-06-21 15:21:02,222 basehttp:212 "GET /users/login HTTP/1.1" 405 7609
+INFO 2024-06-21 15:21:02,256 basehttp:212 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2024-06-21 15:21:02,256 basehttp:212 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2024-06-21 15:21:02,257 basehttp:212 "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2024-06-21 15:21:02,257 basehttp:212 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2024-06-21 15:21:02,272 basehttp:212 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2024-06-21 15:21:02,273 basehttp:212 "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+INFO 2024-06-21 15:21:02,274 basehttp:212 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2024-06-21 15:21:02,274 basehttp:212 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2024-06-21 15:21:02,275 basehttp:212 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2024-06-21 15:21:02,276 basehttp:212 "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2024-06-21 15:21:02,277 basehttp:212 "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+INFO 2024-06-21 15:21:02,295 basehttp:212 "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+WARNING 2024-06-21 15:21:32,839 logs:18 请求路径: /users/login 耗时0.6769096851348877秒
+INFO 2024-06-21 15:21:32,841 basehttp:212 "POST /users/login HTTP/1.1" 200 8058
+WARNING 2024-06-21 15:22:34,723 log:241 Unauthorized: /hosts/list
+WARNING 2024-06-21 15:22:34,724 basehttp:212 "POST /hosts/list HTTP/1.1" 401 43
+WARNING 2024-06-21 15:22:55,017 log:241 Unauthorized: /hosts/list
+WARNING 2024-06-21 15:22:55,018 basehttp:212 "POST /hosts/list HTTP/1.1" 401 43
+WARNING 2024-06-21 15:22:57,870 log:241 Unauthorized: /hosts/list
+WARNING 2024-06-21 15:22:57,872 basehttp:212 "GET /hosts/list HTTP/1.1" 401 43
+WARNING 2024-06-21 15:35:30,956 log:241 Not Found: /hosts
+WARNING 2024-06-21 15:35:30,957 basehttp:212 "GET /hosts HTTP/1.1" 404 2411
+INFO 2024-06-21 15:51:14,466 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\host\urls.py changed, reloading.
+INFO 2024-06-21 15:51:15,547 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 15:51:36,307 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\host\views.py changed, reloading.
+INFO 2024-06-21 15:51:37,204 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 15:51:43,565 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\host\views.py changed, reloading.
+INFO 2024-06-21 15:51:44,629 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 15:51:52,530 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\host\views.py changed, reloading.
+INFO 2024-06-21 15:51:53,454 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 15:54:11,665 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\host\urls.py changed, reloading.
+INFO 2024-06-21 15:54:12,475 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 15:54:19,004 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\host\urls.py changed, reloading.
+INFO 2024-06-21 15:54:19,818 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 15:54:29,599 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\host\urls.py changed, reloading.
+INFO 2024-06-21 15:54:30,564 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 16:00:08,427 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-21 16:00:09,393 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 16:00:50,448 autoreload:266 E:\uric\uric_api\uric_api\uric_api\urls.py changed, reloading.
+INFO 2024-06-21 16:00:51,500 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 16:01:34,767 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\mtask\urls.py changed, reloading.
+INFO 2024-06-21 16:01:35,793 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 16:01:50,364 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\mtask\views.py changed, reloading.
+INFO 2024-06-21 16:01:51,368 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 16:02:42,399 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\host\views.py changed, reloading.
+INFO 2024-06-21 16:02:43,337 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 16:03:57,015 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\host\views.py changed, reloading.
+INFO 2024-06-21 16:03:57,911 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 16:04:01,360 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\host\views.py changed, reloading.
+INFO 2024-06-21 16:04:02,388 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 16:04:48,318 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\host\views.py changed, reloading.
+INFO 2024-06-21 16:04:49,298 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 16:05:38,682 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\host\views.py changed, reloading.
+INFO 2024-06-21 16:05:39,672 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 16:06:16,934 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\host\urls.py changed, reloading.
+INFO 2024-06-21 16:06:17,788 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 16:09:28,414 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\mtask\models.py changed, reloading.
+INFO 2024-06-21 16:09:29,384 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 16:10:55,594 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\mtask\urls.py changed, reloading.
+INFO 2024-06-21 16:10:56,523 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 16:13:02,832 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\mtask\views.py changed, reloading.
+INFO 2024-06-21 16:13:03,782 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 16:14:03,747 autoreload:266 E:\uric\uric_api\uric_api\uric_api\apps\mtask\views.py changed, reloading.
+INFO 2024-06-21 16:14:04,685 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 16:40:04,076 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-21 16:40:04,935 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 16:40:16,949 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-21 16:40:17,782 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 16:40:55,719 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-21 16:40:56,698 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 20:15:22,773 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-21 20:15:23,740 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 20:15:52,356 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-21 20:15:53,148 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 20:17:34,206 autoreload:668 Watching for file changes with StatReloader
+ERROR 2024-06-21 20:17:37,177 exception:124 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\xings\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\xings\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\xings\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\xings\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\http\request.py", line 167, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2024-06-21 20:17:37,235 log:241 Bad Request: /
+WARNING 2024-06-21 20:17:37,237 basehttp:212 "GET / HTTP/1.1" 400 71654
+INFO 2024-06-21 20:29:23,354 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-21 20:29:24,235 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 20:29:32,469 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-21 20:29:33,349 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 20:29:39,336 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-21 20:29:40,314 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 20:29:51,165 autoreload:668 Watching for file changes with StatReloader
+ERROR 2024-06-21 20:29:53,880 exception:124 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\xings\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\xings\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\xings\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\xings\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\http\request.py", line 167, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2024-06-21 20:29:53,936 log:241 Bad Request: /
+WARNING 2024-06-21 20:29:53,938 basehttp:212 "GET / HTTP/1.1" 400 71653
+INFO 2024-06-21 20:32:20,730 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-21 20:32:21,634 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 20:32:30,272 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-21 20:32:31,131 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 20:34:10,248 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-21 20:34:31,349 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 20:43:37,543 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-21 20:43:38,594 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 20:44:17,304 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-21 20:44:18,135 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 20:44:23,026 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-21 20:44:23,852 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 20:44:28,677 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-21 20:44:29,489 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 20:44:51,043 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-21 20:44:51,914 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 20:45:01,359 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-21 20:45:02,112 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 20:46:40,268 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-21 20:46:41,122 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 20:46:48,314 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-21 20:46:49,197 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 20:46:58,531 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-21 20:46:59,544 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 20:47:11,143 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-21 20:47:12,045 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 20:47:19,068 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-21 20:47:19,884 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 20:47:55,600 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-21 20:47:56,535 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 20:48:09,649 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-21 20:48:10,559 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 20:48:30,331 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-21 20:48:31,240 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 20:48:56,358 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 20:50:07,833 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 20:50:48,104 autoreload:668 Watching for file changes with StatReloader
+ERROR 2024-06-21 20:50:50,630 exception:124 Invalid HTTP_HOST header: '0.0.0.0:8000'. You may need to add '0.0.0.0' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\xings\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\xings\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\xings\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\xings\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\http\request.py", line 167, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '0.0.0.0:8000'. You may need to add '0.0.0.0' to ALLOWED_HOSTS.
+WARNING 2024-06-21 20:50:50,693 log:241 Bad Request: /
+WARNING 2024-06-21 20:50:50,695 basehttp:212 "GET / HTTP/1.1" 400 69975
+INFO 2024-06-21 20:51:22,815 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-21 20:51:23,676 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 20:51:59,787 autoreload:668 Watching for file changes with StatReloader
+WARNING 2024-06-21 20:52:14,127 log:241 Not Found: /
+WARNING 2024-06-21 20:52:14,128 basehttp:212 "GET / HTTP/1.1" 404 2491
+INFO 2024-06-21 20:53:43,863 autoreload:668 Watching for file changes with StatReloader
+WARNING 2024-06-21 20:55:22,551 log:241 Not Found: /
+WARNING 2024-06-21 20:55:22,553 basehttp:212 "GET / HTTP/1.1" 404 2484
+INFO 2024-06-21 20:56:06,342 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-21 20:56:07,165 autoreload:668 Watching for file changes with StatReloader
+INFO 2024-06-21 20:56:27,811 autoreload:266 E:\uric\uric_api\uric_api\uric_api\settings\dev.py changed, reloading.
+INFO 2024-06-21 20:56:28,637 autoreload:668 Watching for file changes with StatReloader
+WARNING 2024-06-21 20:57:29,973 log:241 Not Found: /
+WARNING 2024-06-21 20:57:29,973 basehttp:212 "GET / HTTP/1.1" 404 2491
+INFO 2024-06-21 22:15:30,676 autoreload:668 Watching for file changes with StatReloader
+WARNING 2024-06-21 22:15:33,056 log:241 Not Found: /
+WARNING 2024-06-21 22:15:33,057 basehttp:212 "GET / HTTP/1.1" 404 2484
+INFO 2024-06-22 17:04:31,985 autoreload:668 Watching for file changes with StatReloader
